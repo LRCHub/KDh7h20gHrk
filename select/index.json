@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "*Luna - エピローグ (Epilogue)  feat.來",
+  "base_artist": "*Luna",
+  "createdAt": "2026-02-15T15:19:41.150907Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bella Luna",
+      "artist": "Jason Mraz",
+      "has_synced": true,
+      "path": "select/01_Bella_Luna_Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Luna de Miel en la Mano",
+      "artist": "Virus",
+      "has_synced": true,
+      "path": "select/02_Luna_de_Miel_en_la_Mano_Virus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful Stranger (by f(Amber+Luna+Krystal))",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/03_Beautiful_Stranger_(by_f(Amber+Luna+Krystal))_f(x).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beautiful Stranger (by Amber+Luna+Krystal)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/04_Beautiful_Stranger_(by_Amber+Luna+Krystal)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ex Luna Scientia",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/05_Ex_Luna_Scientia_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Goodbye Summer (f(Amber+Luna+Krystal) (feat. D.O. of EXO-K))",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/06_Goodbye_Summer_(f(Amber+Luna+Krystal)_(feat._D.O._of_EXO-K))_f(x).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Goodbye Summer (f(Amber+Luna+Krystal) (Feat. D.O.)",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/07_Goodbye_Summer_(f(Amber+Luna+Krystal)_(Feat._D.O.)_f(x).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Are My Destiny (Sung By f[Luna+Krystal])",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/08_You_Are_My_Destiny_(Sung_By_f[Luna+Krystal])_f(x).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You are my destiny (Luna+Krystal)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/09_You_are_my_destiny_(Luna+Krystal)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Luna Lune",
+      "artist": "Mia Doi Todd",
+      "has_synced": false,
+      "path": "select/10_Luna_Lune_Mia_Doi_Todd.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Astra et Luna",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/11_Astra_et_Luna_Enya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cuando Sale la Luna",
+      "artist": "José Alfredo Jiménez",
+      "has_synced": false,
+      "path": "select/12_Cuando_Sale_la_Luna_José_Alfredo_Jiménez.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Luna Llena",
+      "artist": "Arca",
+      "has_synced": true,
+      "path": "select/13_Luna_Llena_Arca.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "La Luna",
+      "artist": "Belinda Carlisle",
+      "has_synced": true,
+      "path": "select/14_La_Luna_Belinda_Carlisle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La Luna (7\")",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/15_La_Luna_(7_)_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エピローグ",
+      "artist": "*Luna",
+      "has_synced": false,
+      "path": "select/pl_01_エピローグ_Luna.txt"
+    }
+  ]
+}
